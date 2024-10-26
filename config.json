@@ -3,5 +3,5 @@
   "name": "Timed Hit",
   "description": "A Timed Hit system for Owlbear Rodeo.",
   "version": "1.0",
-  "entry": "https://andresorue13.github.io/timed-hit-extension/index.html"
+  "entry": "index.html"
 }
