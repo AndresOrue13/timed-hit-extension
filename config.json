@@ -5,9 +5,17 @@
   "version": "1.0",
   "authors": [
     {
-      "name": "AndresOrue13",
+      "name": "Andres Orue",
       "email": "andresorue13@gmail.com"
     }
   ],
-  "entry": "https://andresorue13.github.io/timed-hit-extension/index.html"
+  "entry": "https://andresorue13.github.io/timed-hit-extension/index.html",
+  "type": "extension",
+  "settings": {
+    "hit_interval": {
+      "type": "range",
+      "label": "Hit Interval",
+      "default": "45-55"
+    }
+  }
 }
