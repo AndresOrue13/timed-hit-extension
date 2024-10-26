@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Timed Hit Extension</title>
+    <link rel="stylesheet" href="Css/Style.css">
+    <script src="Script/Script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Timed Hit</h1>
+        <div class="input-container">
+            <label for="hit-interval">Hit Interval (e.g., 45-55):</label>
+            <input type="text" id="hit-interval" placeholder="Enter interval">
+        </div>
+        <button id="start-stop-btn" onclick="startStopTimedHit()">Start</button>
+        <div id="hit-bar">
+            <div id="marker"></div>
+        </div>
+        <div id="result"></div>
+    </div>
+</body>
+</html>
