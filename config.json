@@ -3,12 +3,6 @@
   "name": "Timed Hit",
   "description": "A Timed Hit system for Owlbear Rodeo.",
   "version": "1.0",
-  "authors": [
-    {
-      "name": "Andres Orue",
-      "email": "andresorue13@gmail.com"
-    }
-  ],
   "entry": "https://andresorue13.github.io/timed-hit-extension/index.html",
   "type": "extension"
 }
