@@ -10,12 +10,5 @@
     }
   ],
   "entry": "https://andresorue13.github.io/timed-hit-extension/index.html",
-  "type": "extension",
-  "settings": {
-    "hit_interval": {
-      "type": "range",
-      "label": "Hit Interval",
-      "default": "45-55"
-    }
-  }
+  "type": "extension"
 }
